@@ -1,4 +1,4 @@
-const text ="GMR TERMINAL ACTIVATE ...";
+const text ="GMR TERMINAL ACTIVATE";
 let index = 0;
 const speed = 80;
 
